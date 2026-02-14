@@ -1,7 +1,7 @@
 id=${moduleId}
-name=${api} - LSPosed
+name=${api} - LSPosed - Raz Fork
 version=${versionName} (${versionCode})
 versionCode=${versionCode}
-author=${authorList}
-description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. ${requirement}.
+author=Raz, ${authorList}
+description=Cli-enabled fork of LSPosed
 updateJson=${updateJson}
